@@ -97,8 +97,8 @@ All four relationships use **one-to-many (1:*) cardinality** and single-directio
 
 After building the star schema, an interactive **Health Care Dashboard** was created in Power BI Report View.
 
-![Health Care Dashboard](images/dashboard.png<img width="1917" height="971" alt="Screenshot 2026-10-21 104203" src="https://github.com/user-attachments/assets/fe4c1745-6773-4ab0-bdbb-3eacf58a884f" />
-)
+<img width="1917" height="971" alt="Screenshot 2026-10-21 104203" src="https://github.com/user-attachments/assets/fe4c1745-6773-4ab0-bdbb-3eacf58a884f" />
+
 
 ### Dashboard Components
 
